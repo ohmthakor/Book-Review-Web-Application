@@ -78,6 +78,8 @@ update_avg_rating_on_delete: Updates the average rating when a review is deleted
 #### User Profile Page:
 - Displays the user's reading list and reviews.
 - Allows editing/deleting reviews and managing lists.
+<img width="500" alt="Screenshot 2024-12-13 at 4 45 57 PM" src="https://github.com/user-attachments/assets/6ed81ee0-782d-4ea2-9b7b-3c3bbf5e510d" />
+
 
 ### Login Credentials:
 #### Regular User:
