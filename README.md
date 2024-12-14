@@ -4,13 +4,10 @@
 
 This project is a Book Review Web Application developed as part of the CS340 Database Systems course at Oregon State University. It allows users to review books, track their reading history, and search for books based on various factors such as genre, author, and rating. Admin users can manage the book database and moderate reviews.
 
-Group Project
+### Group Project
 This project was a collaborative effort by the following team members:
 
-Ohm Thakor
-Luke Scovel
-Nathaniel Wood
-Kevin Nguyen
+Ohm Thakor, Luke Scovel, Nathaniel Wood, Kevin Nguyen
 
 ## Features
 
