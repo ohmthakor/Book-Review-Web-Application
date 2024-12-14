@@ -64,10 +64,14 @@ update_avg_rating_on_delete: Updates the average rating when a review is deleted
 #### Main Page:  
 - Displays book details, including author, genre, and reviews.
 - Allows users to add reviews and manage their reading lists.
+<img width="500" alt="Screenshot 2024-12-13 at 4 45 09 PM" src="https://github.com/user-attachments/assets/6f3e58b0-fb6d-487e-8bae-1f82f6dbbef3" />
+
+
   
 #### Login Page:
 - Provides access to the application with user authentication.
 - Admin users log in with separate credentials for database management.
+<img width="500" alt="Screenshot 2024-12-13 at 4 44 27 PM" src="https://github.com/user-attachments/assets/3b71e241-0b23-4975-a277-023edc3cc594" />
   
 #### User Profile Page:
 - Displays the user's reading list and reviews.
