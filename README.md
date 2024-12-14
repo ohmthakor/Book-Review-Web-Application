@@ -36,37 +36,42 @@ Requirements
 - Reading lists are limited to 100 books.
 - Books must have a unique listing in the database.
 
-Database Design
+## Database Design
 
-Entities and Attributes
-User: Tracks user details (username, role, date joined).
-Book: Stores book information (title, author, genre, avg_rating).
-Author: Tracks author details (first name, last name).
-Reading List: Manages user-specific lists of books.
-Review: Stores user reviews with ratings and timestamps.
-Triggers
-update_avg_rating: Updates the average rating of a book when a review is added.
-update_avg_rating_on_update: Updates the average rating when a review is modified.
-update_avg_rating_on_delete: Updates the average rating when a review is deleted.
-Application Implementation
+#### Entities and Attributes:
+- User: Tracks user details (username, role, date joined).
+- Book: Stores book information (title, author, genre, avg_rating).
+- Author: Tracks author details (first name, last name).
+- Reading List: Manages user-specific lists of books.
+- Review: Stores user reviews with ratings and timestamps.
 
-Technologies Used
-HTML/PHP: For building the user interface and handling backend logic.
-CSS: For styling the web pages (e.g., user-friendly forms, tables, buttons).
-JavaScript: For dynamic interactions like form validation and responsive UI elements.
-MySQL: For storing and managing application data.
-Triggers and Stored Procedures: To ensure data integrity and automate updates.
-Key Pages
-Main Page:
-Displays book details, including author, genre, and reviews.
-Allows users to add reviews and manage their reading lists.
-Login Page:
-Provides access to the application with user authentication.
-Admin users log in with separate credentials for database management.
-User Profile Page:
-Displays the user's reading list and reviews.
-Allows editing/deleting reviews and managing lists.
-How to Use the Application
+#### Triggers
+update_avg_rating: Updates the average rating of a book when a review is added.  
+update_avg_rating_on_update: Updates the average rating when a review is modified.  
+update_avg_rating_on_delete: Updates the average rating when a review is deleted.  
+
+## Application Implementation
+
+#### Technologies Used
+- HTML/PHP: For building the user interface and handling backend logic.  
+- CSS: For styling the web pages (e.g., user-friendly forms, tables, buttons).  
+- JavaScript: For dynamic interactions like form validation and responsive UI elements.  
+- MySQL: For storing and managing application data.  
+- Triggers and Stored Procedures: To ensure data integrity and automate updates.
+  
+### Key Pages  
+
+#### Main Page:  
+- Displays book details, including author, genre, and reviews.
+- Allows users to add reviews and manage their reading lists.
+  
+#### Login Page:
+- Provides access to the application with user authentication.
+- Admin users log in with separate credentials for database management.
+  
+#### User Profile Page:
+- Displays the user's reading list and reviews.
+- Allows editing/deleting reviews and managing lists.
 
 ### Login Credentials:
 #### Regular User:
