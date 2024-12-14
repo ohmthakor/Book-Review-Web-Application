@@ -73,11 +73,11 @@ How to Use the Application
 
 ### Login Credentials:
 #### Regular User:
-  Username: john_doe
+  Username: john_doe  
   Password: password1
   
 #### Admin User:
-  Username: admin_user
+  Username: admin_user  
   Password: password2
   
 ### Performing CRUD Operations:
