@@ -65,6 +65,8 @@ update_avg_rating_on_delete: Updates the average rating when a review is deleted
 - Displays book details, including author, genre, and reviews.
 - Allows users to add reviews and manage their reading lists.
 <img width="500" alt="Screenshot 2024-12-13 at 4 45 09 PM" src="https://github.com/user-attachments/assets/6f3e58b0-fb6d-487e-8bae-1f82f6dbbef3" />
+<img width="500" alt="Screenshot 2024-12-13 at 4 45 30 PM" src="https://github.com/user-attachments/assets/8809ddbd-b0b3-4c4c-a401-2c7fb6fca4ee" />
+
 
 
   
